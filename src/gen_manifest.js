@@ -1,4 +1,4 @@
-#!/usr/src/env node
+#!/usr/bin/env node
 'use strict';
 /**
  * Generate manifest.json for webOS Homebrew Channel publishing
